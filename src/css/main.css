@@ -1,4 +1,8 @@
 /* Your CSS here. */
+img {
+  width: 150px;
+  height: 150px;
+}
 div {
     width: fit-content;
     background-color: #d3d3d3;
