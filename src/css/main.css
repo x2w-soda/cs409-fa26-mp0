@@ -1,1 +1,13 @@
 /* Your CSS here. */
+div {
+    width: fit-content;
+    background-color: #d3d3d3;
+    padding: 20px;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
